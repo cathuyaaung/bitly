@@ -1,0 +1,6 @@
+{
+    "mongoAtlasURI": "mongodb+srv://test123:test123@cluster0-ehdmh.mongodb.net/test?retryWrites=true&w=majority",
+    "mongoURI": "mongodb://localhost:27017/bitly",
+    "baseUrl": "http://165.227.46.61:5000"
+
+}
